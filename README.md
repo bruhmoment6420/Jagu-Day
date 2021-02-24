@@ -1,3 +1,4 @@
+![epic jagus](https://github.com/bruhmoment6420/Jagu-Day/blob/main/assets/icon.png)
 # Jagu-Day
 The ultimate guide for Jagu-Day. The app comes prebuilt with the most prestigious of jagu spamzz and impressive features such as in-app wishing.
 ## Using the App
