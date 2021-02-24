@@ -7,7 +7,7 @@ Now since im broke I cant realy afford publishing my app on a store. So use the 
 I've included a APK file in the [releases](https://github.com/bruhmoment6420/Jagu-Day/releases/tag/v1.0) section. Sadly this will only work for Android devices. To run it in a IOS device follow the next method.
 ### Using Expo Go:
 I used the Expo Wrapper to write this app. So you can use the Expo GO app to run the app. You can find all the info [here.](https://expo.io/@tahlial/projects/jaguar-day)
-### Setting Up a Development:
+### Setting Up a Development Environment:
 You can setup a development environment using these steps:
 #### Step 1:
 Clone the repository
